@@ -11,7 +11,7 @@ body {
 
 a {
     font-family: 'Roboto Slab', serif;
-    color: #D2691E;
+    color: #1e78d2;
     transition: 0.5s;
 }
 
@@ -48,7 +48,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #D2691E;
+    background: #1e78d2;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -228,7 +228,7 @@ h6 {
     width: 50px;
     height: 50px;
     padding: 9px;
-    background: #D2691E;
+    background: #1e78d2;
     font-size: 32px;
     line-height: 1;
 }
@@ -246,12 +246,12 @@ h6 {
     transition: 0.5s;
     margin: 10px;
     color: #ffffff;
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #intro .btn-get-started:hover {
     background: #ffffff;
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 /* ================================================= */
@@ -311,7 +311,7 @@ h6 {
 }
 
 .banner .banner-box a:hover {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 .banner .banner-box a:first-child {
@@ -403,7 +403,7 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu > .menu-active > a {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 .nav-menu > li {
@@ -432,7 +432,7 @@ h6 {
 
 .nav-menu ul li:hover > a {
     color: #FFFFFF;
-    background: #D2691E
+    background: #1e78d2
 }
 
 .nav-menu ul ul {
@@ -496,7 +496,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 #mobile-nav ul li li {
@@ -504,7 +504,7 @@ h6 {
 }
 
 #mobile-nav ul li.menu-active a {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 #mobile-nav ul .menu-has-children i {
@@ -517,7 +517,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -525,7 +525,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-item-active {
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 #mobile-body-overly {
@@ -609,7 +609,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col-1 {
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #about .about-col-1::before {
@@ -619,7 +619,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     height: 40px;
     top: calc(50% - 20px);
     right: -20px;
-    background: #D2691E;
+    background: #1e78d2;
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -692,7 +692,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-des .about-des-col {
     margin-bottom: 30px;
     padding-bottom: 30px;
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #about .about-des p {
@@ -709,7 +709,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     height: 40px;
     bottom: -20px;
     right: calc(50% - 20px);
-    background: #D2691E;
+    background: #1e78d2;
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -719,7 +719,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about a {
     display: inline-block;
     padding: 8px 30px;
-    color: #D2691E;
+    color: #1e78d2;
     background: #ffffff;
 }
 
@@ -769,7 +769,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speaker .content-cols {
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #speaker .content-cols-right::before,
@@ -779,7 +779,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 40px;
     height: 40px;
     top: calc(50% - 20px);
-    background: #D2691E;
+    background: #1e78d2;
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -848,7 +848,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 45px;
     font-size: 22px;
     text-align: center;
-    color: #D2691E;
+    color: #1e78d2;
     background: #ffffff;
     padding: 6px 0;
 }
@@ -947,7 +947,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #venue .des-cols {
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #venue .des-cols::before {
@@ -957,7 +957,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     height: 40px;
     top: calc(50% - 20px);
     left: -20px;
-    background: #D2691E;
+    background: #1e78d2;
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -1038,7 +1038,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 0 auto 20px;
     text-align: center;
     box-shadow: 0 0 0 0px #fff inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
-    color: #D2691E;
+    color: #1e78d2;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -1047,7 +1047,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #ticket .single-ticket:hover h2 {
     box-shadow: 0 0 0 10px #fff inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
-    background-color: #D2691E;
+    background-color: #1e78d2;
     color: #fff;
 }
 
@@ -1065,11 +1065,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline-block;
     padding: 8px 30px;
     color: #ffffff;
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #ticket .single-ticket:hover a {
-    color: #D2691E;
+    color: #1e78d2;
     background: #222222;
 }
 
@@ -1099,7 +1099,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #cart .quantity .q-btn {
     display: inline-block;
-    background: #D2691E;
+    background: #1e78d2;
     color: #ffffff;
     height: 30px;
     width: 30px;
@@ -1114,14 +1114,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #cart a {
     display: inline-block;
-    background: #D2691E;
+    background: #1e78d2;
     color: #ffffff;
     padding: 5px 30px 7px 30px;
     text-align: center;
 }
 
 #cart a:hover {
-    color: #D2691E;
+    color: #1e78d2;
     background: #222222;
 }
 
@@ -1142,12 +1142,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #checkout .form input:focus {
-    border-color: #D2691E;
+    border-color: #1e78d2;
 }
 
 #checkout .form button[type="submit"] {
     border: none;
-    background: #D2691E;
+    background: #1e78d2;
     padding: 9px 30px;
     margin-left: 15px;
     color: #ffffff;
@@ -1157,7 +1157,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #checkout .form button[type="submit"]:hover {
     background: #222222;
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 #checkout .cards {
@@ -1181,7 +1181,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #call-to-action {
     padding: 80px 0 90px 0;
-    background: #D2691E;
+    background: #1e78d2;
 }
 
 #call-to-action h3 {
@@ -1196,7 +1196,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 8px 30px;
     font-size: 30px;
     font-weight: 700;
-    color: #D2691E;
+    color: #1e78d2;
     background: #ffffff;
 }
 
@@ -1253,8 +1253,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-    color: #D2691E;
-    border: 1px solid #D2691E;
+    color: #1e78d2;
+    border: 1px solid #1e78d2;
     display: none;
     text-align: center;
     padding: 15px;
@@ -1296,12 +1296,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .form input:focus,
 #contact .form textarea:focus {
-    border-color: #D2691E;
+    border-color: #1e78d2;
 }
 
 #contact .form button[type="submit"] {
     border: none;
-    background: #D2691E;
+    background: #1e78d2;
     padding: 9px 30px;
     color: #ffffff;
     transition: 0.4s;
@@ -1310,7 +1310,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .form button[type="submit"]:hover {
     background: #222222;
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 /* ================================================= */
@@ -1342,12 +1342,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #login .form input:focus {
-    border-color: #D2691E;
+    border-color: #1e78d2;
 }
 
 #login .form button[type="submit"] {
     border: none;
-    background: #D2691E;
+    background: #1e78d2;
     padding: 9px 30px;
     color: #ffffff;
     transition: 0.4s;
@@ -1356,7 +1356,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #login .form button[type="submit"]:hover {
     background: #222222;
-    color: #D2691E;
+    color: #1e78d2;
 }
 
 .custom-control-label:before{
@@ -1366,14 +1366,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .custom-radio .custom-control-input:checked~.custom-control-label::before,
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background: #D2691E;
-    border: 1px solid #D2691E;
+    background: #1e78d2;
+    border: 1px solid #1e78d2;
 }
 
 .custom-radio .custom-control-input:focus~.custom-control-label::before,
 .custom-checkbox .custom-control-input:focus~.custom-control-label::before {
     box-shadow: none;
-    border: 1px solid #D2691E;
+    border: 1px solid #1e78d2;
 }
 
 /* ================================================= */
@@ -1400,14 +1400,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 60px;
     line-height: 60px;
     text-align: center;
-    box-shadow: 0 0 0 4px #D2691E inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
+    box-shadow: 0 0 0 4px #1e78d2 inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
     color: #fff;
     transition: all 0.3s;
 }
 
 #footer .footer-top .social-links a:hover {
-    box-shadow: 0 0 0 4px #D2691E inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
-    background: #D2691E;
+    box-shadow: 0 0 0 4px #1e78d2 inset, 0 0 5px 0 rgba(000, 000, 000, 0.5);
+    background: #1e78d2;
     color: #222222;
 }
 
@@ -1495,3 +1495,30 @@ body.mobile-nav-active #mobile-nav-toggle {
         display: inline;
     }
 }
+
+.btn-custom {
+    background-color: #1e78d2; /* Green background */
+    color: white; /* White text */
+    text-align: left; /* Align text to the left */
+    width: 100%; /* Full width button */
+    padding: 10px 20px; /* Padding for better spacing */
+    position: relative; /* To position the arrow */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+  }
+
+  .btn-custom:focus {
+    outline: none; /* Remove focus outline */
+  }
+
+  .btn-custom .arrow {
+    position: absolute; /* Position arrow inside button */
+    right: 15px; /* Distance from the right edge */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%) rotate(0deg); /* Default arrow pointing down */
+    transition: transform 0.3s ease; /* Smooth rotation */
+  }
+
+  .btn-custom[aria-expanded="true"] .arrow {
+    transform: translateY(-50%) rotate(180deg); /* Rotate arrow up when expanded */
+  }
